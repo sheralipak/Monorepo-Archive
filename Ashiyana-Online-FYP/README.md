@@ -23,6 +23,8 @@ The strategic roadmap breaks down system deployment tasks using enterprise-level
 
 ## 🛡️ Cybersecurity & SOC Relevance
 * **Security-by-Design Lifecycle Audit:** Reviewing these structural design bounds, verification engines, and access scopes mimics the threat-modeling stage of the secure SDLC. Catching architectural flaws here mitigates downstream logic bypass exploits.
+
+* The File size is 830+MB in zip so you can email me for access i will send you the link
 * **Operational Configuration Compliance:** Managing rigorous WBS logging, tracking change registers, and maintaining strict change control documentation mirrors the formal change management and audit compliance models seen in mature Security Operations Centers (SOC).
 
 ## 🛠️ Technical Focus
