@@ -1,18 +1,30 @@
-# 🏠 Ashiyana Online - Final Year Project (Part-1)
+# 🏠 Ashiyana Online - Capstone Final Year Project (FYP Master Workspace)
 
-A comprehensive, production-grade enterprise software engineering blueprint and system specification report for **Ashiyana Online**, developed as a capstone Final Year Project (FYP). The architecture focuses heavily on Agile systems planning, multi-tiered software design methodologies, and strict requirement gathering paradigms.
+A comprehensive, enterprise-grade systems engineering repository containing the official architecture specifications, lifecycle plans, and project roadmaps for **Ashiyana Online**. The project models a production-ready real estate marketplace leveraging advanced automation, smart search heuristics, and interactive mapping protocols.
 
-## 📊 Project Scope & Objectives
-Ashiyana Online is designed to digitize real estate workflows and property management logistics. This comprehensive Part-1 specification lays out the foundational software lifecycle engineering phases:
-* **Agile Lifecycle Management:** Documents rigorous sprint logging, iterative version records, and formal feedback adjustment trackers.
-* **System Requirements Specification (SRS):** Highlights deep functional requirements mapping user privileges, interface boundaries, and server-side data operations.
-* **Database Relational Design:** Establishes initial normalization plans and data validation patterns to ensure consistent state storage and protect structural data integrity.
+## 📊 1. Core Platform Architecture & Features
+Ashiyana Online revolutionizes traditional property markets by introducing modern technical components to maximize transaction transparency:
+* **Interactive 360° Media Framework:** Employs dynamic property tours to virtualize space inspections, minimizing traditional on-site verification friction points.
+* **Crowdfunding & Decentralized Investments:** Introduces real estate fractional funding matrices, enabling multi-user micro-investments across properties.
+* **Real-Time Bidding and Auction Engines:** Automates secure digital land bidding environments with real-time constraint parameters.
+* **Pre-Wallet Security Protocol:** Integrates transactional escrow holding layers to safeguard capital distribution phases between entities.
 
-## 🛡️ Cybersecurity & Software Engineering Relevance
-* **Secure Development Lifecycle (SDLC):** This architecture highlights the critical "Security-by-Design" phase of the SDLC. Analyzing application logic boundaries, functional access controls, and requirement specifications is how security engineers eliminate vulnerabilities before a single line of code is compiled.
-* **Auditability & Compliance:** The thorough documentation of change records, author versions, and formal supervisor validations demonstrates enterprise-grade logging and compliance disciplines mandatory in professional Security Operations (SOC) cultures.
+## 📐 2. Systems Engineering Lifecycle & SRS (Report Part-1)
+The structural analysis documentation defines deep validation parameters across 80+ highly structured pages:
+* **Agile Audit Records:** Logs full system adjustments, versioning milestones ($v1.0$ through $v1.4$), and peer faculty review feedback cycles.
+* **Software Requirements Specification (SRS):** Normalizes core system boundaries, operational access rules, data isolation limits, and interface conditions.
+* **Relational Normalization:** Structures target entity schemas to defend against data replication errors, preserve transactional truth, and streamline multi-user read query processing.
+
+## 📅 3. Project Management Architecture & Execution Roadmap
+The strategic roadmap breaks down system deployment tasks using enterprise-level scheduling constraints:
+* **Work Breakdown Structure (WBS):** Deconstructs complex deliverables into short, accountable weekly activity segments to monitor team member roles dynamically.
+* **Gantt Chart Scheduling Metrics:** Establishes critical path tracking from early enrollment initialization up to final code deployment phases.
+* **Responsibility Assignment Matrix (RAM):** Establishes an explicit mapping framework identifying exactly who completes what, mitigating resource contention loops throughout development.
+
+## 🛡️ Cybersecurity & SOC Relevance
+* **Security-by-Design Lifecycle Audit:** Reviewing these structural design bounds, verification engines, and access scopes mimics the threat-modeling stage of the secure SDLC. Catching architectural flaws here mitigates downstream logic bypass exploits.
+* **Operational Configuration Compliance:** Managing rigorous WBS logging, tracking change registers, and maintaining strict change control documentation mirrors the formal change management and audit compliance models seen in mature Security Operations Centers (SOC).
 
 ## 🛠️ Technical Focus
-* **Framework:** Software Development Lifecycle (SDLC) / Project Planning
-* **Artifacts:** Systems Analysis, Structural Versioning, Requirement Engineering, Systems Layout.
-* **Project Documentation Size:** 80+ Comprehensive Engineering Specification Pages
+* **Methodologies:** Agile Project Management, Systems Analysis, Software Architecture Design
+* **Artifacts:** Work Breakdown Structure (WBS), Responsibility Assignment Matrices (RAM), SRS Documentation, Gantt Tracking.
