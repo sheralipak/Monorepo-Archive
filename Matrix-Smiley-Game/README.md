@@ -1,7 +1,7 @@
 ```markdown
 # 🎮 2D Matrix Smiley Game
 
-A C++ console-based game built as a final programming project. The game initializes a $10 \times 10$ grid environment where a player asset (smiley) navigates from the starting coordinates $(0, 0)$ toward a target destination at $(9, 9)$ based on randomized input logic and boundary constraints[cite: 2].
+A C++ console-based game built as a programming project. The game initializes a grid environment where a player asset (smiley) navigates from the starting coordinates $(0, 0)$ toward a target destination at $(9, 9)$ based on randomized input logic and boundary constraints.
 
 ## 📋 Game Rules & Movement Logic
 * **Randomized Inputs:** The game simulates steps using `rand() % 7` to determine spatial adjustments.
